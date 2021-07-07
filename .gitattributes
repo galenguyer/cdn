@@ -1,1 +1,1 @@
-nginx/ssh/dhparam.pem   filter=git-crypt    diff=git-crypt
+nginx/ssl/dhparam.pem   filter=git-crypt    diff=git-crypt
